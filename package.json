@@ -1,0 +1,28 @@
+{
+  "name": "love-baby",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+	"start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cochiachang/love-baby.git"
+  },
+  "keywords": [
+    "newbie",
+    "mother"
+  ],
+  "author": "claire chang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cochiachang/love-baby/issues"
+  },
+  "homepage": "https://github.com/cochiachang/love-baby#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "linebot": "^1.4.1"
+  }
+}
